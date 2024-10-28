@@ -1,0 +1,5 @@
+public
+dist
+*.d.ts
+/src/assets
+package.json

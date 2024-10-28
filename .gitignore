@@ -1,0 +1,23 @@
+# Logs
+.eslintcache
+components.d.ts
+report.html
+
+node_modules
+.DS_Store
+dist
+*.local
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+package-lock.json
+yarn.lock
+/pnpm-lock.yaml

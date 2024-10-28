@@ -1,0 +1,7 @@
+/* 全局 css 变量 */
+$primary-color: var(--el-color-primary);
+$red-color: #ff0000;
+// 全局样式
+:root {
+  --el-border-radius-base: 6px !important;
+}
